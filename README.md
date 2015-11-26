@@ -1,1 +1,1 @@
-# AndroidTestSet
+This is a test set for Android development.
